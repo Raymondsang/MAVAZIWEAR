@@ -15,8 +15,15 @@ body {
     background-color: black;
     color: white;
 }
-
-h3 {
+h3{
     text-align: center;
-    text
+    border: solid 12px;background-color: #4b5050ce;
+    border-radius: 25px;
+    padding: 80px
+    margin: 60vh;
+
+
+    
 }
+
+
